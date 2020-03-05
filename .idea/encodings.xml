@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/cn/sxt/oo2/TestExtends.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro01/BallGame2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestComment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestConstant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestIdentifer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestOperator01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestOperator02.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestOperator03.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestOperator04.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestPrimitiveData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestPrimitiveDataType02.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestPrimitiveDataType03.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestScanner.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestTypeConvertError.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestVariable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestBreak.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestContinue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestFor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestIf.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestIfElse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestIfElseIfElse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestLabelContinue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestMethod.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestOverload.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestRecursion.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestRecursion01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestSwitch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestWhile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro03/TestWhileqiantao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro04/TestThis.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro04/TestThis01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro04/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro04/User2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro04/User3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/company/MyPro04/User4.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
