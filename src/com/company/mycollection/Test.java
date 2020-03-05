@@ -1,7 +1,7 @@
 package com.company.mycollection;
 
-public class HelloGit {
+public class Test {
     public static void main(String[] args) {
-        System.out.println("woæ—¶ä¸€ä¸ªå¥½äºº");
+        System.out.println("ÕâÊÇ×îºóÒ»´Î²âÊÔ");
     }
 }
