@@ -12,15 +12,19 @@ public class TestMap2 {
         Employee e1 = new Employee(1001,"黄建波",50000);
         Employee e2 = new Employee(1002,"小二",5000);
         Employee e3 = new Employee(1003,"小五",6000);
-
+        Employee e4 = new Employee(1004,"小刘",7000);
         Map<Integer,Employee> map = new HashMap<>();
 
         map.put(1001,e1);
         map.put(1002,e2);
         map.put(1003,e3);
 
+
         Employee emp = map.get(1001);
         System.out.println(emp.getEname());
+
+        map.put(1001,e4);
+        System.out.println(map);
 
 
     }
@@ -49,7 +53,7 @@ class Employee{
 
     @Override
     public String toString() {
-        return "id：" +id + " name：" + ename + "薪水：" + salary;
+        return " id：" +id + " name：" + ename + "薪水：" + salary;
     }
 
     public int getId() {
