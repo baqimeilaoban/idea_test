@@ -109,6 +109,7 @@ public class LinkedBinaryTree implements BinaryTree {
             this.preOrderTraverse(root.rightChild);
         }
     }
+
     @Override
     public void inOrderTraverse() {
         System.out.print("ÖÐÐò±éÀú£º");
