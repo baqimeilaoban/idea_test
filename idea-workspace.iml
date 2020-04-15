@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
           <root url="jar://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar!/" />
@@ -16,13 +16,67 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES />
         <JAVADOC />
         <SOURCES>
           <root url="jar://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-sources.jar!/" />
         </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/quartz-2.4.0-SNAPSHOT-distribution/quartz-2.4.0-SNAPSHOT/lib/log4j-1.2.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/quartz-2.4.0-SNAPSHOT-distribution/quartz-2.4.0-SNAPSHOT/lib/c3p0-0.9.5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/quartz-2.4.0-SNAPSHOT-distribution/quartz-2.4.0-SNAPSHOT/lib/quartz-2.4.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/quartz-2.4.0-SNAPSHOT-distribution/quartz-2.4.0-SNAPSHOT/lib/quartz-jobs-2.4.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/quartz-2.4.0-SNAPSHOT-distribution/quartz-2.4.0-SNAPSHOT/lib/slf4j-api-1.7.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/quartz-2.4.0-SNAPSHOT-distribution/quartz-2.4.0-SNAPSHOT/lib/slf4j-log4j12-1.7.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
       </library>
     </orderEntry>
   </component>
