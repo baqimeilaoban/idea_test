@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
     <file url="file://$PROJECT_DIR$/src/cn/sxt/oo2/TestExtends.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/sxt/server/server01/Server02.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/company/MyPro01/BallGame2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestComment.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/company/MyPro02/TestConstant.java" charset="GBK" />
