@@ -4,7 +4,7 @@
     <configs>
       <sshConfig authType="PASSWORD" host="116.85.25.14" id="87c12cad-5864-4890-aaca-961e74e76ded" port="22" customName="centos" nameFormat="CUSTOM" username="dc2-user" />
       <sshConfig authType="PASSWORD" host="116.85.25.14" id="99d09193-b213-4b10-b6b0-d6dadece7aa9" port="22" customName="centos-root" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="116.85.25.14" id="aa1e69b8-6731-4fb4-bbc2-95b02105988e" port="22" customName="centos-root" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="937a7a4e-97b9-43fd-a465-b2461b922f22" port="22" customName="centos-root" nameFormat="CUSTOM" username="root" />
     </configs>
   </component>
 </project>
