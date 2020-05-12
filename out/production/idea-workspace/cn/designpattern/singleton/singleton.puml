@@ -1,0 +1,10 @@
+@startuml
+SingletonDemo01 <|-- Client
+
+class SingletonDemo01
+
+class Client{
+main(in args; String[]):void
+}
+
+@enduml
