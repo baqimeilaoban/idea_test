@@ -100,5 +100,77 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/BaiduNetdiskDownload/java/java/10-深入理解 Java 多线程/资料/001_software/quartz-2.2.3-distribution/quartz-2.2.3/lib/c3p0-0.9.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/BaiduNetdiskDownload/java/java/10-深入理解 Java 多线程/资料/001_software/quartz-2.2.3-distribution/quartz-2.2.3/lib/log4j-1.2.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/BaiduNetdiskDownload/java/java/10-深入理解 Java 多线程/资料/001_software/quartz-2.2.3-distribution/quartz-2.2.3/lib/quartz-2.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/BaiduNetdiskDownload/java/java/10-深入理解 Java 多线程/资料/001_software/quartz-2.2.3-distribution/quartz-2.2.3/lib/quartz-jobs-2.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/BaiduNetdiskDownload/java/java/10-深入理解 Java 多线程/资料/001_software/quartz-2.2.3-distribution/quartz-2.2.3/lib/slf4j-api-1.7.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/BaiduNetdiskDownload/java/java/10-深入理解 Java 多线程/资料/001_software/quartz-2.2.3-distribution/quartz-2.2.3/lib/slf4j-log4j12-1.7.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/BaiduNetdiskDownload/java/java/10-深入理解 Java 多线程/资料/001_software/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/BaiduNetdiskDownload/java/java/10-深入理解 Java 多线程/资料/001_software/jboss-javassist-javassist-rel_3_27_0_ga-3-g5e3b6a8/jboss-javassist-javassist-5e3b6a8/javassist.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
