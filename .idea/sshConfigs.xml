@@ -4,7 +4,24 @@
     <configs>
       <sshConfig authType="PASSWORD" host="116.85.25.14" id="87c12cad-5864-4890-aaca-961e74e76ded" port="22" customName="centos" nameFormat="CUSTOM" username="dc2-user" />
       <sshConfig authType="PASSWORD" host="116.85.25.14" id="99d09193-b213-4b10-b6b0-d6dadece7aa9" port="22" customName="centos-root" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="116.85.25.14" id="3abf5982-4abd-42a1-945c-3c9299366ed2" port="22" customName="centos-root" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="78dca9e0-892a-44eb-92da-a7186886370b" port="22" customName="centos" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="6c82ffd6-d19e-4fe8-bbf5-a14854ac486c" port="22" customName="centos-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="9f47e593-ffe2-4f47-aceb-6bb5afad7c33" port="22" customName="centos" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="56e109b9-b7c6-42ea-82a9-bd2c20392924" port="22" customName="centos-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="5eb63c12-3c7a-4c38-9c63-ef405a00fed7" port="22" customName="centos" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="7f5a44fd-4bf0-4f13-9bec-a2e8918d3201" port="22" customName="centos-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="aa41dd09-5b2f-4a57-8591-e32626466d88" port="22" customName="centos" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="1fb03de5-d337-42c5-b668-d61a832a100f" port="22" customName="centos-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="32c8e404-8ddd-4348-972c-c7ade6ef3013" port="22" customName="centos" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="828b74cb-f165-4b8f-97a7-71433ffa78e7" port="22" customName="centos-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="07a32f5c-3dfe-4f0a-94e6-6606bffbd6b3" port="22" customName="centos" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="b9290d69-fc99-4c85-ace8-bcf93de5a94e" port="22" customName="centos-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="1d3700a3-9a60-42f2-b9a6-d28490b92934" port="22" customName="centos" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="b43b2040-d44b-4d94-813b-614242d8bb96" port="22" customName="centos-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="7134319e-1883-46d3-a7c6-15d44ce10b03" port="22" customName="centos" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="63487167-8c18-444f-b0f8-034d79b05871" port="22" customName="centos-root" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="9c28eeb8-b2d1-4d6c-b1c5-4162155c8a07" port="22" customName="centos" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="116.85.25.14" id="0d898e53-5f77-479f-b3d3-a633f15ac3ac" port="22" customName="centos-root" nameFormat="CUSTOM" />
     </configs>
   </component>
 </project>
